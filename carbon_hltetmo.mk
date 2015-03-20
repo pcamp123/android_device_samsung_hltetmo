@@ -9,3 +9,6 @@ PRODUCT_DEVICE := hltetmo
 PRODUCT_BRAND := Samsung
 PRODUCT_MODEL := Galaxy Note 3
 PRODUCT_MANUFACTURE := Samsung
+
+# Device resolution for TWRP
+DEVICE_RESOLUTION := 1080x1920
